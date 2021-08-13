@@ -1,10 +1,13 @@
 {
   "resources": [
+    {"id":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},"order":5,},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":1,},
     {"id":{"name":"spr_circle","path":"sprites/spr_circle/spr_circle.yy",},"order":0,},
     {"id":{"name":"obj_standard_bumper","path":"objects/obj_standard_bumper/obj_standard_bumper.yy",},"order":2,},
     {"id":{"name":"spr_triangle","path":"sprites/spr_triangle/spr_triangle.yy",},"order":3,},
+    {"id":{"name":"Object5","path":"objects/Object5/Object5.yy",},"order":4,},
     {"id":{"name":"spr_standared_bumper","path":"sprites/spr_standared_bumper/spr_standared_bumper.yy",},"order":2,},
+    {"id":{"name":"mjyt","path":"sprites/mjyt/mjyt.yy",},"order":4,},
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},"order":1,},
     {"id":{"name":"obj_ball","path":"objects/obj_ball/obj_ball.yy",},"order":0,},
     {"id":{"name":"obj_triangle","path":"objects/obj_triangle/obj_triangle.yy",},"order":3,},
@@ -50,7 +53,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.1.542",
+    "IDEVersion": "2.3.2.560",
   },
   "resourceVersion": "1.4",
   "name": "pinball",
