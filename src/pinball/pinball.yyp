@@ -8,6 +8,7 @@
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},"order":1,},
     {"id":{"name":"obj_ball","path":"objects/obj_ball/obj_ball.yy",},"order":0,},
     {"id":{"name":"obj_triangle","path":"objects/obj_triangle/obj_triangle.yy",},"order":3,},
+    {"id":{"name":"inparis","path":"sprites/inparis/inparis.yy",},"order":4,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
