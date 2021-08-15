@@ -1,2 +1,1 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description adds score, plays sound changes sprite etc

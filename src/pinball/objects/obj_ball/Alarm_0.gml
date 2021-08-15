@@ -1,0 +1,1 @@
+/// @description 3 seconds to shoot ball
