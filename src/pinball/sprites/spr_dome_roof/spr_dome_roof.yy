@@ -7,15 +7,15 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 49,
-  "bbox_right": 139,
-  "bbox_top": 48,
-  "bbox_bottom": 198,
+  "bbox_left": 0,
+  "bbox_right": 830,
+  "bbox_top": 2,
+  "bbox_bottom": 415,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 300,
-  "height": 300,
+  "width": 832,
+  "height": 416,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"70909d11-3c9d-4c93-a96c-508587930204","path":"sprites/spr_triangle/spr_triangle.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"70909d11-3c9d-4c93-a96c-508587930204","path":"sprites/spr_triangle/spr_triangle.yy",},"LayerId":{"name":"bb81b34d-2bcb-4738-b200-78add7612eff","path":"sprites/spr_triangle/spr_triangle.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_triangle","path":"sprites/spr_triangle/spr_triangle.yy",},"resourceVersion":"1.0","name":"70909d11-3c9d-4c93-a96c-508587930204","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"9d673a00-b5a2-4fcb-8bce-38fb475aa68d","path":"sprites/spr_dome_roof/spr_dome_roof.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"9d673a00-b5a2-4fcb-8bce-38fb475aa68d","path":"sprites/spr_dome_roof/spr_dome_roof.yy",},"LayerId":{"name":"6aaaa111-2209-4367-b365-61371b788a4b","path":"sprites/spr_dome_roof/spr_dome_roof.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_dome_roof","path":"sprites/spr_dome_roof/spr_dome_roof.yy",},"resourceVersion":"1.0","name":"9d673a00-b5a2-4fcb-8bce-38fb475aa68d","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_triangle","path":"sprites/spr_triangle/spr_triangle.yy",},
+    "spriteId": {"name":"spr_dome_roof","path":"sprites/spr_dome_roof/spr_dome_roof.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"44de9d47-fbbc-4340-bab0-8421d31b65d8","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"70909d11-3c9d-4c93-a96c-508587930204","path":"sprites/spr_triangle/spr_triangle.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"652d03a3-f7bf-4660-9c24-2249b489a10d","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9d673a00-b5a2-4fcb-8bce-38fb475aa68d","path":"sprites/spr_dome_roof/spr_dome_roof.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,14 +58,14 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_triangle","path":"sprites/spr_triangle/spr_triangle.yy",},
+    "parent": {"name":"spr_dome_roof","path":"sprites/spr_dome_roof/spr_dome_roof.yy",},
     "resourceVersion": "1.3",
-    "name": "spr_triangle",
+    "name": "spr_dome_roof",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"bb81b34d-2bcb-4738-b200-78add7612eff","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"6aaaa111-2209-4367-b365-61371b788a4b","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Sprites/Bumpers and objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_triangle",
+  "name": "spr_dome_roof",
   "tags": [],
   "resourceType": "GMSprite",
 }

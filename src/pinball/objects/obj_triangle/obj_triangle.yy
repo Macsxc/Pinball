@@ -32,8 +32,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Bumpers and objetcs",
+    "path": "folders/Objects/Bumpers and objetcs.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_triangle",

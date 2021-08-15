@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite8",
-    "path": "sprites/Sprite8/Sprite8.yy",
+    "name": "spr_dome_roof",
+    "path": "sprites/spr_dome_roof/spr_dome_roof.yy",
   },
   "solid": false,
   "visible": true,
@@ -27,8 +27,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Bumpers and objetcs",
+    "path": "folders/Objects/Bumpers and objetcs.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_topwall",

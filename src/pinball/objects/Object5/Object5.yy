@@ -23,8 +23,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Game function objects",
+    "path": "folders/Objects/Game function objects.yy",
   },
   "resourceVersion": "1.0",
   "name": "Object5",
