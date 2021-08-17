@@ -1,6 +1,8 @@
 {
   "resources": [
     {"id":{"name":"obj_topwall","path":"objects/obj_topwall/obj_topwall.yy",},"order":3,},
+    {"id":{"name":"obj_info_button","path":"objects/obj_info_button/obj_info_button.yy",},"order":1,},
+    {"id":{"name":"spr_settings_button","path":"sprites/spr_settings_button/spr_settings_button.yy",},"order":0,},
     {"id":{"name":"spr_wall_l","path":"sprites/spr_wall_l/spr_wall_l.yy",},"order":7,},
     {"id":{"name":"Path1","path":"paths/Path1/Path1.yy",},"order":0,},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":5,},
@@ -9,7 +11,7 @@
     {"id":{"name":"obj_standard_bumper","path":"objects/obj_standard_bumper/obj_standard_bumper.yy",},"order":2,},
     {"id":{"name":"spr_launcher","path":"sprites/spr_launcher/spr_launcher.yy",},"order":2,},
     {"id":{"name":"spr_triangle","path":"sprites/spr_triangle/spr_triangle.yy",},"order":4,},
-    {"id":{"name":"Object5","path":"objects/Object5/Object5.yy",},"order":0,},
+    {"id":{"name":"obj_settings_button","path":"objects/obj_settings_button/obj_settings_button.yy",},"order":0,},
     {"id":{"name":"spr_special_bumper","path":"sprites/spr_special_bumper/spr_special_bumper.yy",},"order":0,},
     {"id":{"name":"spr_standard_bumper","path":"sprites/spr_standard_bumper/spr_standard_bumper.yy",},"order":1,},
     {"id":{"name":"spr_wall_c","path":"sprites/spr_wall_c/spr_wall_c.yy",},"order":3,},
@@ -50,7 +52,7 @@
     {"folderPath":"folders/Notes.yy","order":13,"resourceVersion":"1.0","name":"Notes","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Extensions.yy","order":14,"resourceVersion":"1.0","name":"Extensions","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Bumpers and objects.yy","order":0,"resourceVersion":"1.0","name":"Bumpers and objects","tags":[],"resourceType":"GMFolder",},
-    {"folderPath":"folders/Sprites/Borders and display areas.yy","order":1,"resourceVersion":"1.0","name":"Borders and display areas","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/Borders and display.yy","order":1,"resourceVersion":"1.0","name":"Borders and display","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Font and info maybe.yy","order":2,"resourceVersion":"1.0","name":"Font and info maybe","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/Bumpers and objetcs.yy","order":7,"resourceVersion":"1.0","name":"Bumpers and objetcs","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/Game function objects.yy","order":8,"resourceVersion":"1.0","name":"Game function objects","tags":[],"resourceType":"GMFolder",},
