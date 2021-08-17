@@ -5,6 +5,23 @@
     {"id":{"name":"spr_settings_button","path":"sprites/spr_settings_button/spr_settings_button.yy",},"order":0,},
     {"id":{"name":"spr_wall_l","path":"sprites/spr_wall_l/spr_wall_l.yy",},"order":7,},
     {"id":{"name":"Path1","path":"paths/Path1/Path1.yy",},"order":0,},
+<<<<<<< HEAD
+    {"id":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},"order":6,},
+    {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":1,},
+    {"id":{"name":"obj_launcher","path":"objects/obj_launcher/obj_launcher.yy",},"order":5,},
+    {"id":{"name":"spr_circle","path":"sprites/spr_circle/spr_circle.yy",},"order":0,},
+    {"id":{"name":"obj_standard_bumper","path":"objects/obj_standard_bumper/obj_standard_bumper.yy",},"order":2,},
+    {"id":{"name":"Sprite9","path":"sprites/Sprite9/Sprite9.yy",},"order":8,},
+    {"id":{"name":"spr_triangle","path":"sprites/spr_triangle/spr_triangle.yy",},"order":3,},
+    {"id":{"name":"Object5","path":"objects/Object5/Object5.yy",},"order":4,},
+    {"id":{"name":"spr_standared_bumper","path":"sprites/spr_standared_bumper/spr_standared_bumper.yy",},"order":2,},
+    {"id":{"name":"mjyt","path":"sprites/mjyt/mjyt.yy",},"order":4,},
+    {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},"order":1,},
+    {"id":{"name":"Sprite8","path":"sprites/Sprite8/Sprite8.yy",},"order":7,},
+    {"id":{"name":"obj_ball","path":"objects/obj_ball/obj_ball.yy",},"order":0,},
+    {"id":{"name":"obj_triangle","path":"objects/obj_triangle/obj_triangle.yy",},"order":3,},
+    {"id":{"name":"inparis","path":"sprites/inparis/inparis.yy",},"order":5,},
+=======
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":5,},
     {"id":{"name":"obj_launcher","path":"objects/obj_launcher/obj_launcher.yy",},"order":1,},
     {"id":{"name":"spr_ball","path":"sprites/spr_ball/spr_ball.yy",},"order":5,},
@@ -18,6 +35,7 @@
     {"id":{"name":"spr_dome_roof","path":"sprites/spr_dome_roof/spr_dome_roof.yy",},"order":6,},
     {"id":{"name":"obj_ball","path":"objects/obj_ball/obj_ball.yy",},"order":0,},
     {"id":{"name":"obj_triangle","path":"objects/obj_triangle/obj_triangle.yy",},"order":4,},
+>>>>>>> 37e110c7f6a2c22e47735438d24c7e72f5676951
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -68,7 +86,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.2.560",
+    "IDEVersion": "2.3.1.542",
   },
   "resourceVersion": "1.4",
   "name": "pinball",
