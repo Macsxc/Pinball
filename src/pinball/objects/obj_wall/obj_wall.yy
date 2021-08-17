@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_wall",
-    "path": "sprites/spr_wall/spr_wall.yy",
+    "name": "spr_wall_c",
+    "path": "sprites/spr_wall_c/spr_wall_c.yy",
   },
   "solid": false,
   "visible": true,
@@ -29,8 +29,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Bumpers and objetcs",
+    "path": "folders/Objects/Bumpers and objetcs.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_wall",

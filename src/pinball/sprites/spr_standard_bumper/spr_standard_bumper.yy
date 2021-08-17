@@ -8,14 +8,14 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 110,
-  "bbox_top": 21,
-  "bbox_bottom": 179,
+  "bbox_right": 63,
+  "bbox_top": 0,
+  "bbox_bottom": 63,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 126,
-  "height": 189,
+  "width": 64,
+  "height": 64,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 3,
   "gridY": 3,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"70909d11-3c9d-4c93-a96c-508587930204","path":"sprites/spr_triangle/spr_triangle.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"70909d11-3c9d-4c93-a96c-508587930204","path":"sprites/spr_triangle/spr_triangle.yy",},"LayerId":{"name":"bb81b34d-2bcb-4738-b200-78add7612eff","path":"sprites/spr_triangle/spr_triangle.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_triangle","path":"sprites/spr_triangle/spr_triangle.yy",},"resourceVersion":"1.0","name":"70909d11-3c9d-4c93-a96c-508587930204","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"afb12d67-6734-4e91-a21b-b60e74fbd147","path":"sprites/spr_standard_bumper/spr_standard_bumper.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"afb12d67-6734-4e91-a21b-b60e74fbd147","path":"sprites/spr_standard_bumper/spr_standard_bumper.yy",},"LayerId":{"name":"e52a21a6-6bba-44e6-86b6-4141b7cdcfd2","path":"sprites/spr_standard_bumper/spr_standard_bumper.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_standard_bumper","path":"sprites/spr_standard_bumper/spr_standard_bumper.yy",},"resourceVersion":"1.0","name":"afb12d67-6734-4e91-a21b-b60e74fbd147","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_triangle","path":"sprites/spr_triangle/spr_triangle.yy",},
+    "spriteId": {"name":"spr_standard_bumper","path":"sprites/spr_standard_bumper/spr_standard_bumper.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"44de9d47-fbbc-4340-bab0-8421d31b65d8","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"70909d11-3c9d-4c93-a96c-508587930204","path":"sprites/spr_triangle/spr_triangle.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"5f404b03-24cb-402e-8053-6e5427db10fa","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"afb12d67-6734-4e91-a21b-b60e74fbd147","path":"sprites/spr_standard_bumper/spr_standard_bumper.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,14 +58,14 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_triangle","path":"sprites/spr_triangle/spr_triangle.yy",},
+    "parent": {"name":"spr_standard_bumper","path":"sprites/spr_standard_bumper/spr_standard_bumper.yy",},
     "resourceVersion": "1.3",
-    "name": "spr_triangle",
+    "name": "spr_standard_bumper",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"bb81b34d-2bcb-4738-b200-78add7612eff","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"e52a21a6-6bba-44e6-86b6-4141b7cdcfd2","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Sprites/Bumpers and objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_triangle",
+  "name": "spr_standard_bumper",
   "tags": [],
   "resourceType": "GMSprite",
 }

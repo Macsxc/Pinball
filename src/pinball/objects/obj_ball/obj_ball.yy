@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_circle",
-    "path": "sprites/spr_circle/spr_circle.yy",
+    "name": "spr_ball",
+    "path": "sprites/spr_ball/spr_ball.yy",
   },
   "solid": false,
   "visible": true,
@@ -44,8 +44,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Bumpers and objetcs",
+    "path": "folders/Objects/Bumpers and objetcs.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_ball",

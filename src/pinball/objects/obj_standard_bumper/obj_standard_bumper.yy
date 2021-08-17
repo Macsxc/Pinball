@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_standared_bumper",
-    "path": "sprites/spr_standared_bumper/spr_standared_bumper.yy",
+    "name": "spr_standard_bumper",
+    "path": "sprites/spr_standard_bumper/spr_standard_bumper.yy",
   },
   "solid": false,
   "visible": true,
@@ -27,8 +27,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Bumpers and objetcs",
+    "path": "folders/Objects/Bumpers and objetcs.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_standard_bumper",
